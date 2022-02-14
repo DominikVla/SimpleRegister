@@ -31,4 +31,5 @@ try {
 
 // Terminate Connection
 $conn = null;
+header('Location: registered.html'); // To confirm that details have been saved
 ?>

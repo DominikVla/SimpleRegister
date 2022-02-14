@@ -1,5 +1,6 @@
 <?php
 // Database Details
+
 /*
 Current impacts of changes:
 - register.php
